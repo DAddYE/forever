@@ -1,0 +1,4 @@
+#!/usr/bin/ruby
+warn "\e[31mforever is deprecated, install the new gem:\e[0m"
+warn "\e[32mgem install foreverb\e[0m"
+warn "and new executable \e[1mforeverb\e[0m list/stop/etc"
